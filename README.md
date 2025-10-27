@@ -1,0 +1,5 @@
+# Modeling of innovation activities
+Моделирование инновационной деятельности
+
+# Видео
+[Наука и инновации](https://rutube.ru/video/7b59d553b1136f5f49886c87eb12d19f/?r=plwd)
