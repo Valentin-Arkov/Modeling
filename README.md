@@ -4,7 +4,7 @@
 
 ### 1 Регламент и алгоритм
 
-[Методичка](https://github.com/Valentin-Arkov/Modeling/blob/main/README.md)
+[Методичка](https://github.com/Valentin-Arkov/Modeling/blob/main/Modeling.pdf)
 
 [Загрузка отчета](https://forms.gle/bNnMtXkZTHcDpayU9)
 
