@@ -6,7 +6,7 @@
 
 [Методичка](https://github.com/Valentin-Arkov/Modeling/blob/main/Modeling.pdf)
 
-[Загрузка отчета](https://forms.gle/bNnMtXkZTHcDpayU9)
+[Загрузка отчета](https://forms.yandex.ru/u/692a64edf47e73072fda34c8)
 
 ***
 
