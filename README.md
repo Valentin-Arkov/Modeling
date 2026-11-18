@@ -1,6 +1,12 @@
 # Моделирование инновационной деятельности
 
-[Пособие: лабы + экзамен](https://github.com/Valentin-Arkov/Modeling/blob/main/Modeling.pdf)
+## Отчетность
+
+[Загрузить отчеты](https://forms.yandex.ru/u/6afd5072de8ec3e82fd2521c)
+
+## Материалы
+
+[Пособие: лабы + экзамен](https://ridero.ru/books/tekhnologii_modelirovaniya/)
 
 ## Лабораторные работы
 
